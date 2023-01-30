@@ -30,7 +30,7 @@
 
 # 📖 Dockerizing a Ruby on Rails application <a name="about-project"></a>
 
-This is a demo application to show how to use Docker to containize a Ruby on Rails application.
+This is a demo application to show how to use Docker to containerize a Ruby on Rails application.
 
 <br>
 
