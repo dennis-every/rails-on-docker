@@ -36,7 +36,6 @@ This is a demo application to show how to use Docker to containize a Ruby on Rai
 
 ## 🛠 Built With <a name="built-with"></a>
 
-<br>
 
 ### Tech Stack <a name="tech-stack"></a>
 
