@@ -90,6 +90,7 @@ This is a demo application to show how to use Docker to containerize a Ruby on R
 - Create the database in another terminal, run: docker compose run web rake db:create
 - Go to http://localhost:3000 on a web browser to see the Rails welcome page
 - To stop the application, run docker compose down
+- References: https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/rails/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
