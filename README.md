@@ -19,7 +19,6 @@
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
-    - [Install](#install)
     - [Usage](#usage)
     - [Build steps](#steps)
   - [👥 Author ](#-author-)
@@ -72,14 +71,9 @@ This is a demo application to show how to use Docker to containerize a Ruby on R
 
 ### Setup
 
+- install Docker from docker.com
 - git clone git@github.com:dennis-every/rails-on-docker.git
 - cd rails-on-docker
-
-<br>
-
-### Install
-
-- Install Docker from docker.com
 
 <br>
 
