@@ -40,28 +40,13 @@ This is a demo application to show how to use Docker to containize a Ruby on Rai
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Client</summary>
   <ul>
     <li>Ruby on Rails</li>
     <li>PostgreSql</li>
+    <li>Puma</li>
     <li>Docker</li>
   </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>Puma</li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li>PostgreSql</li>
-  </ul>
-</details>
+ 
 
 <br>
 <!-- Features -->
