@@ -16,7 +16,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Usage](#usage)
@@ -52,14 +51,6 @@ This is a demo application to show how to use Docker to containerize a Ruby on R
 ### Key Features <a name="key-features"></a>
 
 - **Use Docker to containerize a Ruby on Rails application**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Docker on Rails](https://dennis-every.github.io/docker-on-rails)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
